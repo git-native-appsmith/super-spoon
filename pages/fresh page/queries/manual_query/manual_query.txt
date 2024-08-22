@@ -1,0 +1,1 @@
+SELECT * FROM public."demo_stores" LIMIT {{10}};
