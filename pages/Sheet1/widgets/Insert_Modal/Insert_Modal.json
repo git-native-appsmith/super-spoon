@@ -1,5 +1,5 @@
 {
-  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius + 0}}",
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius + 10}}",
   "bottomRow": 40,
   "boxShadow": "none",
   "canEscapeKeyClose": true,
